@@ -79,11 +79,19 @@ Familias y niños?
 Las familias y los niños son bienvenidas! Nos encantaría que vinierais todos a disfrutar de esta mañana juntos. El lugar tiene espacio de sobra para que estemos todos cómodos. Hay dos niños de 7 y 5 años que vienen seguro. :-)
 
 
+CÓDIGO DE CONDUCTA:
+---------------
+
+Este evento se regirá por nuestro Código de Conducta: https://github.com/agile-asturias/core/blob/master/coc/CODE_OF_CONDUCT.md
+
+Es de obligado cumplimiento para organizadores, participantes, asistentes y cualquier persona que tenga relación directa o indirecta con la comunidad o los eventos que desde ésta se organicen.
+El no cumplimiento del código de conducta acarreará actuaciones que pueden ir desde apercibimientos, hasta la expulsión del evento e incluso de la comunidad de aquellas personas que no lo respeten.
+
+
 MOLARÍA MUCHO
 --------
 
-
-**Tener una Ludoteca para los más pequeños**
+**Ludoteca**
 
 Estaría genial tener presupuesto para tener a nuestros peques entretenidos. De aquí a la fecha buscaremos opciones a ver si es viable.
 Aquí un patrocinador sería muy bienvenido. :-)
