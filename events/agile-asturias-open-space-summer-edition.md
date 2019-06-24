@@ -82,10 +82,10 @@ Las familias y los niños son bienvenidas! Nos encantaría que vinierais todos a
 MOLARÍA MUCHO
 --------
 
-Tener una Ludoteca para los más pequeños
 
+**Tener una Ludoteca para los más pequeños**
 
 Estaría genial tener presupuesto para tener a nuestros peques entretenidos. De aquí a la fecha buscaremos opciones a ver si es viable.
 Aquí un patrocinador sería muy bienvenido. :-)
 
-Foto de portada by Roberto Bayón (https://robertobayon.es/, https://twitter.com/roberto_bayon)
+*Foto de portada by Roberto Bayón (https://robertobayon.es/, https://twitter.com/roberto_bayon)*
