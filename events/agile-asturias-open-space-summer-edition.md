@@ -79,7 +79,7 @@ Familias y niños?
 Las familias y los niños son bienvenidas! Nos encantaría que vinierais todos a disfrutar de esta mañana juntos. El lugar tiene espacio de sobra para que estemos todos cómodos. Hay dos niños de 7 y 5 años que vienen seguro. :-)
 
 
-CÓDIGO DE CONDUCTA:
+CÓDIGO DE CONDUCTA
 ---------------
 
 Este evento se regirá por nuestro Código de Conducta: https://github.com/agile-asturias/core/blob/master/coc/CODE_OF_CONDUCT.md
