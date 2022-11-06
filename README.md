@@ -6,7 +6,20 @@ Esta comunidad quiere servir de espacio de encuentro para el intercambio de idea
 
 Si tú también estás interesado en compartir tus ideas y conocimiento, tus inquietudes y/o tus dudas te invitamos a pasarte por nuestros encuentros.
 
+
+## Cómo apuntarse
+
 Se organiza a través de la plataforma [Meetup Agile Asturias](https://www.meetup.com/es-ES/agile-asturias/)
+
+En muchos de los encuentros que organizamos las plazas están limitadas, por lo que requerimos que se cumplan una serie de requisitos:
+
+1. Identificación para el acceso. Requerimos que en el perfil se incluya nombre real [no un apodo] y al menos el primer apellido para poder identificarte en el evento. Revisa tu perfil en Meetup para comprobar que te has identificado correctamente.
+
+2. En caso de que te apuntes a un encuentro y no puedas acudir avisa de antemano y cancela tu reserva.
+
+3. NO se admiten comunicaciones comerciales a los miembros.
+
+Cualquier miembro que infrinja esta política será expulsado automáticamente y su perfil denunciado en Meetup como spammer.
 
 
 ## Nuestro código de conducta
